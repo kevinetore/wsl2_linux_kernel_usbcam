@@ -55,8 +55,8 @@ You should not be able to see the video devices within WSL: `ls /dev/video*`.
 
 ### Useful links
 
-[wsl2 linux kernel enable conf](https://github.com/PINTO0309/wsl2_linux_kernel_usbcam_enable_conf)
-[gelf.h no such file or dir](https://github.com/sslab-gatech/opensgx/issues/20)
-[openssl/bio.h no such file or directory](https://stackoverflow.com/questions/59016911/fatal-error-openssl-bio-h-no-such-file-or-directory)
-[BTF vmlinux.btf pahole is not available](https://stackoverflow.com/questions/61657707/btf-tmp-vmlinux-btf-pahole-pahole-is-not-available)
+- https://github.com/PINTO0309/wsl2_linux_kernel_usbcam_enable_conf
+- https://github.com/sslab-gatech/opensgx/issues/20
+- https://stackoverflow.com/questions/59016911/fatal-error-openssl-bio-h-no-such-file-or-directory
+- https://stackoverflow.com/questions/61657707/btf-tmp-vmlinux-btf-pahole-pahole-is-not-available
 
