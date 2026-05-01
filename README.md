@@ -52,6 +52,19 @@ On the Windows host: `winget install usbipd`.
 
 You should not be able to see the video devices within WSL: `ls /dev/video*`.
 
+```
+v4l2-ctl --list-devices
+48MP USB Camera: 48MP USB Camer (usb-vhci_hcd.0-1):
+        /dev/video0
+        /dev/video1
+        /dev/media0
+
+48MP USB Camera: 48MP USB Camer (usb-vhci_hcd.0-2):
+        /dev/video2
+        /dev/video3
+        /dev/media1
+```
+
 
 ### Useful links
 
