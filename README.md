@@ -12,6 +12,12 @@ Configuration file to build the kernel to access the usb camera connected to the
 
 ## Usage
 
+### Install prerequisites
+
+```
+sudo apt install build-essential flex bison libssl-dev libelf-dev libncurses-dev autoconf libudev-dev libtool
+```
+
 ### Compile the kernel
 
 ```
